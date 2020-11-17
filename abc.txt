@@ -1,7 +1,5 @@
 john
-<<<<<<< HEAD
 adam
-=======
 b1
 b2
->>>>>>> thirsty
+ok
